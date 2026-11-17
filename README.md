@@ -18,5 +18,6 @@ reports/YYYY-Www-summary.md     short run summary, when one was archived
 | Week | Report | Site result |
 | --- | --- | --- |
 | 2026 week 46 | [reports/2026-W46.html](reports/2026-W46.html) | level 100, score 325; 100 levels, all triple-card solved |
+| 2026 week 47 | [reports/2026-W47.html](reports/2026-W47.html) | level 100, score 309; 100 levels, 300/300 candidates complete |
 
-Run notes for that week: [reports/2026-W46-summary.md](reports/2026-W46-summary.md).
+Run notes for week 46: [reports/2026-W46-summary.md](reports/2026-W46-summary.md).
